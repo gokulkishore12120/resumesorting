@@ -5,7 +5,7 @@ python-docx
 openpyxl
 Pillow
 requests
-numpy
+numpy==1.26.4
 spacy
 docx2txt
 PyPDF2
